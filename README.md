@@ -1,11 +1,6 @@
 ## Paul Mosquera
 
-I am a Statistics student with a strong foundation in statistical 
-modeling, inference, and applied methods. Currently applying that background 
-to Data Science, building projects that combine rigorous statistical thinking 
-with modern data tools to solve real industry problems.
-
-The goal is always the same: transform raw data into insights that actually support decisions. A statistics background helps, it means understanding what's happening inside the models, not just running them.
+I am a Statistics student with a strong foundation in statistical modeling, inference, and applied methods. Currently applying that background to Data Science and statistical analysis through projects that require understanding what's happening inside the models, not just fitting them. Interested in statistical research and real industry problems.
 
 ---
 
