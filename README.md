@@ -1,6 +1,7 @@
 ## Paul Mosquera
 
 I am a Statistics student with a strong foundation in statistical modeling, inference, and applied methods. Currently applying that background to Data Science and statistical analysis through projects that require understanding what's happening inside the models, not just fitting them. Interested in statistical research and real industry problems.
+This is where I document things I find interesting, projects I'm building or revisiting, and sometimes the reasoning behind a decision that didn't work the first time.
 
 ---
 
